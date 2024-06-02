@@ -8,6 +8,10 @@
 ## crypto
 * [![Donation](https://img.shields.io/badge/cryptocurrency-donate-yellow.svg)](https://nowpayments.io/donation/samsesh) :
   https://nowpayments.io/donation/samsesh
+  - BTC : ```bc1q3ugjgd94lmyyn8mnxr59as0djmswup97dpfash```
+  - ETH,USDT : ```0x9171b9ed929E10C8b02649E9c38796c2689e2c10```
+  - TRX,USDT : ```TRo6FajwBxnCE7ekSG6QycJE8SbBXtsksp```
+
 ## Toman or Rial
 * [![Donation](https://img.shields.io/badge/IDPay-donate-blue.svg)](https://idpay.ir/samsesh) :
  https://idpay.ir/samsesh
