@@ -1,17 +1,21 @@
-# Donate
-* [![Donation](https://img.shields.io/badge/reymit-donate-purple.svg)](https://reymit.ir/samsesh) :
-  https://reymit.ir/samsesh
-* [![Donation](https://img.shields.io/badge/PAYPAL-donate-blue.svg)](https://paypal.me/samsesh) :
-  https://paypal.me/samsesh
-* [![subscribe](https://img.shields.io/badge/patreon-subscribe-red.svg)](https://www.patreon.com/SamSesh) :
-  https://www.patreon.com/SamSesh
-## crypto
-* [![Donation](https://img.shields.io/badge/cryptocurrency-donate-yellow.svg)](https://nowpayments.io/donation/samsesh) :
-  https://nowpayments.io/donation/samsesh
-  - BTC : ```bc1q3ugjgd94lmyyn8mnxr59as0djmswup97dpfash```
-  - ETH,USDT : ```0x9171b9ed929E10C8b02649E9c38796c2689e2c10```
-  - TRX,USDT : ```TRo6FajwBxnCE7ekSG6QycJE8SbBXtsksp```
+# 💸 Donate to Support My Work
 
-## Toman or Rial
-* [![Donation](https://img.shields.io/badge/IDPay-donate-blue.svg)](https://idpay.ir/samsesh) :
- https://idpay.ir/samsesh
+Your support helps me keep creating and improving! Here are a few ways you can contribute:
+
+### 🔗 General Donations
+* [![Reymit](https://img.shields.io/badge/Reymit-Donate-purple.svg)](https://reymit.ir/samsesh) : [reymit.ir/samsesh](https://reymit.ir/samsesh)
+* [![PayPal](https://img.shields.io/badge/PayPal-Donate-blue.svg)](https://paypal.me/samsesh) : [paypal.me/samsesh](https://paypal.me/samsesh)
+* [![Patreon](https://img.shields.io/badge/Patreon-Subscribe-red.svg)](https://www.patreon.com/SamSesh) : [patreon.com/SamSesh](https://www.patreon.com/SamSesh)
+
+### 🌐 Cryptocurrency
+* [![Crypto](https://img.shields.io/badge/Cryptocurrency-Donate-yellow.svg)](https://nowpayments.io/donation/samsesh) : [nowpayments.io/donation/samsesh](https://nowpayments.io/donation/samsesh)
+  - **BTC (Bitcoin):** `bc1q3ugjgd94lmyyn8mnxr59as0djmswup97dpfash`
+  - **ETH / USDT (Ethereum):** `0x9171b9ed929E10C8b02649E9c38796c2689e2c10`
+  - **TRX / USDT (Tron):** `TRo6FajwBxnCE7ekSG6QycJE8SbBXtsksp`
+
+### 🇮🇷 Toman / Rial
+* [![IDPay](https://img.shields.io/badge/IDPay-Donate-blue.svg)](https://idpay.ir/samsesh) : [idpay.ir/samsesh](https://idpay.ir/samsesh)
+
+---
+
+Thank you for your generosity! 😊 Every contribution makes a difference.
