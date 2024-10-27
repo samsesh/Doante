@@ -12,7 +12,7 @@ Your support helps me keep creating and improving! Here are a few ways you can c
   - **BTC (Bitcoin):** `bc1q3ugjgd94lmyyn8mnxr59as0djmswup97dpfash`
   - **ETH / USDT (Ethereum):** `0x9171b9ed929E10C8b02649E9c38796c2689e2c10`
   - **TRX / USDT (Tron):** `TRo6FajwBxnCE7ekSG6QycJE8SbBXtsksp`
-
+  - **TON:** `UQCpqlE4hSMnig2S4g-LL9n1v_OdSflJ5j2ZkkADtNk2-fV2`
 ### 🇮🇷 Toman / Rial
 * [![IDPay](https://img.shields.io/badge/IDPay-Donate-blue.svg)](https://idpay.ir/samsesh) : [idpay.ir/samsesh](https://idpay.ir/samsesh)
 
