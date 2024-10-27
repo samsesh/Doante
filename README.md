@@ -15,7 +15,7 @@ Your support helps me keep creating and improving! Here are a few ways you can c
   - **TON:** `UQCpqlE4hSMnig2S4g-LL9n1v_OdSflJ5j2ZkkADtNk2-fV2`
 ### 🇮🇷 Toman / Rial
 * [![IDPay](https://img.shields.io/badge/IDPay-Donate-blue.svg)](https://idpay.ir/samsesh) : [idpay.ir/samsesh](https://idpay.ir/samsesh)
-* [CoffeeTe](https://www.coffeete.ir/SamSesh) - Support me with a coffee!
+* [![CoffeeTe](https://img.shields.io/badge/CoffeeTe-Donate-brown.svg)](https://www.coffeete.ir/SamSesh) - Support me with a coffee!
 
 ---
 
