@@ -14,6 +14,7 @@ Your support helps me keep creating and improving! Here are a few ways you can c
   - **TRX / USDT (Tron):** `TRo6FajwBxnCE7ekSG6QycJE8SbBXtsksp`
   - **TON:** `UQCpqlE4hSMnig2S4g-LL9n1v_OdSflJ5j2ZkkADtNk2-fV2`
 ### 🇮🇷 Toman / Rial
+* [![Zarinpal](https://img.shields.io/badge/Zarinpal-Donate-yellow.svg)](https://zarinp.al/samsesh) : [zarinp.al/samsesh](https://zarinp.al/samsesh)
 * [![IDPay](https://img.shields.io/badge/IDPay-Donate-blue.svg)](https://idpay.ir/samsesh) : [IDPay/samsesh](https://idpay.ir/samsesh)
 * [![CoffeeTe](https://img.shields.io/badge/CoffeeTe-Donate-brown.svg)](https://www.coffeete.ir/SamSesh) :[CoffeeTe/SamSesh](https://www.coffeete.ir/SamSesh)
 
